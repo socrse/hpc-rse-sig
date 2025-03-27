@@ -7,6 +7,8 @@ The HPC RSE SIG has the purpose to bring the HPC RSE community together. We aim 
 
 While the HPC RSE SIG is based in and focused on the UK HPC community, we welcome anyone around the world who is interested in the topic, and invite international HPC RSEs to come along to our events. 
 
-Join us on RSE Slack in the `#hpc-rse-sig` channel
-Email us: [hpc-rse-sig@society-rse.org](mailto:hpc-rse-sig@society-rse.org)
+## Join us!
+
+- `#hpc-rse-sig` channel in [RSE Slack](https://society-rse.org/join-us/)
+- Email us: [hpc-rse-sig@society-rse.org](mailto:hpc-rse-sig@society-rse.org)
 
