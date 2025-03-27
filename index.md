@@ -1,5 +1,6 @@
 ---
 title: HPC RSE Special Interest Group
+layout: default
 ---
 
 The HPC RSE SIG has the purpose to bring the HPC RSE community together. We aim to create a place to meet other RSEs with similar interests, to share knowledge and keep each other informed on developments in the technical, training and community space in the field of high performance computing. For early career members of the community this is a place to find like minded people, build networks, learn more about opportunities and communities in the field and benefit from informal mentoring opportunities. 
