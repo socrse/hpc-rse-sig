@@ -1,3 +1,3 @@
 # HPC RSE SIG Website
 
-Repository for the HPC RSE Special Interest Group
+Repository for the HPC RSE Special Interest Group mini-website
