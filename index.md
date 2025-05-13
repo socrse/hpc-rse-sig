@@ -18,14 +18,14 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 
 - **Join at:** [https://ed-ac-uk.zoom.us/j/83688007474](https://ed-ac-uk.zoom.us/j/83688007474)
 
-Save the date for the first HPC RSE SIG online meetup on Mon 19 May 2025. This online meeting is open to all who are interested and will have short presentations on topics of interest within the HPC RSE space and time for discussion and questions for the community and the committee of the new HPC RSE SIG.
+Join us for the first HPC RSE SIG online meetup on Mon 19 May 2025. This online meeting is open to all who are interested and will have short presentations on topics of interest within the HPC RSE space and time for discussion and questions for the community and the committee of the new HPC RSE SIG.
 
 Rough agenda:
 
 - 11:00 Welcome from the HPC RSE SIG Committee
 - 11:10 Scaling the Stars: Optimizing MPI communication on GPUs in the PROMPI stellar dynamics code; Miren Radia, Research Computing Services, University of Cambridge
 - 11:20 Custom Acceleration Frameworks: the good, the bad, and the ugly; Ilektra Chritidi, Mashy Green, UCL
-- 11:30 FRIDGE: A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O'Reilly, The Alan Turing Institute
+- 11:30 [FRIDGE](https://dareuk.org.uk/how-we-work/ongoing-activities/dare-uk-early-adopters/fridge/): A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O'Reilly, The Alan Turing Institute
 - 11:40 TBC
 - 12:00 Group discussion: How can the HPC RSE SIG be of most use to the community? Additional topics chosen by attendees.
 
