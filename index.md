@@ -16,7 +16,7 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 
 ### HPC RSE SIG Online Meetup: 1100-1300 BST, Mon 19 May 2025
 
-- **Join at:** https://ed-ac-uk.zoom.us/j/83688007474
+- **Join at:** [https://ed-ac-uk.zoom.us/j/83688007474](https://ed-ac-uk.zoom.us/j/83688007474)
 
 Save the date for the first HPC RSE SIG online meetup on Mon 19 May 2025. This online meeting is open to all who are interested and will have short presentations on topics of interest within the HPC RSE space and time for discussion and questions for the community and the committee of the new HPC RSE SIG.
 
