@@ -41,3 +41,10 @@ There is still time to submit contributions or ideas for the meetup:
 We look forward to seeing you online on 19 May!
 HPC RSE SIG Committee
 
+### HPC RSE SIG In-person Meetup at Durham HPC Days: 1630-1800 BST, Thu, 5 June 2025
+
+The [Durham HPC Days](https://www.durham.ac.uk/research/institutes-and-centres/data-science/events-/durham---hpc-days/) take place June 2-7 in Durham, UK.
+
+This is an in-person meet-up of the HPC Research Software Engineers Special Interest Group (HPC RSE SIG), but everyone is welcome – you do not need to be involved with the SIG, the RSE Society, or even be an RSE!
+
+We will start with an un-conference style discussion session (i.e., discussion topics and groups decided on by the participants), which will lead into further discussions and chats over beer and food in the evening.
