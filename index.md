@@ -24,10 +24,10 @@ Rough agenda:
 
 - 11:00 Welcome from the HPC RSE SIG Committee
 - 11:10 Scaling the Stars: Optimizing MPI communication on GPUs in the PROMPI stellar dynamics code; Miren Radia, Research Computing Services, University of Cambridge
-- 11:20 Custom Acceleration Frameworks: the good, the bad, and the ugly; Ilektra Chritidi, Mashy Green, UCL
-- 11:30 [FRIDGE](https://dareuk.org.uk/how-we-work/ongoing-activities/dare-uk-early-adopters/fridge/): A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O'Reilly, The Alan Turing Institute
-- 11:40 Connecting the DRI community through CAKE; Nick Brown, EPCC, University of Edinburgh
-- 12:00 Group discussion: How can the HPC RSE SIG be of most use to the community? Additional topics chosen by attendees.
+- 11:25 Custom Acceleration Frameworks: the good, the bad, and the ugly; Ilektra Chritidi, Mashy Green, UCL
+- 11:40 [FRIDGE](https://dareuk.org.uk/how-we-work/ongoing-activities/dare-uk-early-adopters/fridge/): A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O'Reilly, The Alan Turing Institute
+- 11:55 Connecting the DRI community through CAKE; Nick Brown, EPCC, University of Edinburgh
+- 12:10 Group discussion: How can the HPC RSE SIG be of most use to the community? Additional topics chosen by attendees.
 
 There is still time to submit contributions or ideas for the meetup:
 
