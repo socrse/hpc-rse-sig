@@ -33,13 +33,6 @@ Rough agenda:
 - 11:55 Connecting the DRI community through CAKE; Nick Brown, EPCC, University of Edinburgh
 - 12:10 Group discussion: How can the HPC RSE SIG be of most use to the community? Additional topics chosen by attendees.
 
-There is still time to submit contributions or ideas for the meetup:
-
-- 10 minute presentations on anything of interest in the HPC RSE space. These can be updates on work in progress, interesting results, tools or tips, raising a topic you are keen to discuss, ideas for the direction of the HPC RSE SIG or anything else! Send your name and presentation title to hpc-rse-sig@society-rse.org . We will have space for 4-5 presentations, and they will be assigned on a first-come, first -served basis
-- Ideas or questions for discussion. There will be time in the meetup for a discussion among attendees on topics and questions of interest to the community. Please send any ideas to hpc-rse-sig@society-rse.org and we will add them to the list for potential discussion at the meetup. We are also keen to hear any ideas on how the new SIG can support the HPC RSE community.
-
-We look forward to seeing you online on 19 May!
-HPC RSE SIG Committee
 
 ### HPC RSE SIG In-person Meetup at Durham HPC Days: 1630-1800 BST, Thu, 5 June 2025
 
