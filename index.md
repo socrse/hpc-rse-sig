@@ -12,6 +12,10 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 - `#hpc-rse-sig` channel in [RSE Slack](https://society-rse.org/join-us/)
 - Email us: [hpc-rse-sig@society-rse.org](mailto:hpc-rse-sig@society-rse.org)
 
+## SIG Documentation
+
+- [HPC RSE SIG Terms of Reference](tor.html)
+
 ## Events
 
 ### HPC RSE SIG Online Meetup: 1100-1300 BST, Mon 19 May 2025
