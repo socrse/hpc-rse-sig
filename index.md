@@ -16,6 +16,10 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 
 - [HPC RSE SIG Terms of Reference](tor.html)
 
+## Blog Posts
+- [Read blog posts and reports of previous events!](blog.html)
+
+
 ## Events
 
 ### HPC RSE SIG Online Meetup: 1100-1300 BST, Mon 19 May 2025
