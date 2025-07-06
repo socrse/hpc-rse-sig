@@ -1,0 +1,27 @@
+# HPC RSE SIG Meet-ups 2025
+
+## Online Meet-up May 19
+
+This online meet-up was the first meet-up of the community after officially going through the process of becoming a Special Interest Group under the Society of Research Software Engineering. 
+
+We had a range of interesting talks from the HPC RSE community:
+
+- Scaling the Stars: Optimizing MPI communication on GPUs in the PROMPI stellar dynamics code; Miren Radia, Research Computing Services, University of Cambridge
+- Custom Acceleration Frameworks: the good, the bad, and the ugly; Ilektra Chritidi, Mashy Green, UCL
+- FRIDGE: A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O’Reilly, The Alan Turing Institute
+- Connecting the DRI community through CAKE; Nick Brown, EPCC, University of Edinburgh
+
+These were followed by a group discussion on what the HPC RSE community would like to see from the SIG going forward.
+
+## In-person Meet-up at Durham HPC Days, June 5
+
+At the Durham HPC Days, which traditionally happen in Durham in the week preceeding ISC, we had a session blocked to meet-up in person. Although a lot of HPC RSEs were torn between this session
+and the session on Benchmarking, which ran in parallel, we still had a good group of people in the room. Some of them were new to the HPC RSE SIG and heard for the first time about what we do and how we are
+related to the RSE Society and the HPC SIG.
+
+After a short introduction, we ran world-cafe-style discussion around the topics of career and training, technology and software, and community.
+
+## HPC RSE Birds-of-a-Feather RSECon25
+
+[HPCRSE@RSECon25: 4th annual meeting of the HPC RSE community](https://virtual.oxfordabstracts.com/event/75166/submission/66)
+
