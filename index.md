@@ -22,7 +22,7 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 
 #### 4th Annual Meeting of the HPC RSE Community, In-person meeting at RSECon in Coventry, 11:00 - 15:00 BST, Thu 11 September 2025
 
-This in person meeting is organised as a Birds of a Feather (BoF) session in [RSECon 2025](https://rsecon25.society-rse.org/programme/). It will have short presentations on topics of interest within the HPC RSE space and panel discussions with questions from the audience.
+This in-person meeting is organised as a [Birds of a Feather (BoF) session](https://virtual.oxfordabstracts.com/event/75166/submission/66) in [RSECon 2025](https://rsecon25.society-rse.org/programme/). It will have short presentations on topics of interest within the HPC RSE space and panel discussions with questions from the audience.
 
 Rough Agenda:
 
