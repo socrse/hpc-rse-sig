@@ -57,4 +57,4 @@ Rough agenda:
 
 The [Durham HPC Days](https://www.durham.ac.uk/research/institutes-and-centres/data-science/events-/durham---hpc-days/) took place June 2-7 in Durham, UK.
 
-This is an in-person meet-up of the HPC Research Software Engineers Special Interest Group (HPC RSE SIG).
+There was an in-person meet-up of the HPC Research Software Engineers Special Interest Group (HPC RSE SIG), with discussion groups around training and careers, technology and software, and community.
