@@ -22,4 +22,3 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 
 ## Events
 - [Check out our events](events.html)
-
