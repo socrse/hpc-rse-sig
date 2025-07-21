@@ -90,7 +90,7 @@ The Society asks that the Steering Group ensure that an initial onboarding meeti
 
 - Introductions and icebreaker 
 - Circulate this document and ask all to read it carefully 
-- Ask each member to take the free (mandatory) online EDI training on https://elearning.acas.org.uk/
+- Ask each member to take the free (mandatory) online EDI training on <https://elearning.acas.org.uk/>
   - Bullying & Harassment
   - Discipline & Grievance
   - Equality & Diversity
@@ -129,7 +129,7 @@ The committee will use various modes of collecting feedback. We keep encouraging
 
 ## Publicity and online presence
 
-The HPC RSE SIG created a webpage () which has a collection of blog posts from its events and signpost to other relevant groups, communities and resources. The HPC channel on the UK RSE Slack will remain it’s main place of communication, and the committee members will advertise events on their own social media accounts. 
+The HPC RSE SIG created a webpage (<https://socrse.github.io/hpc-rse-sig/>) which has a collection of blog posts from its events and signpost to other relevant groups, communities and resources. The HPC channel on the UK RSE Slack will remain it’s main place of communication, and the committee members will advertise events on their own social media accounts. 
 
 The SIG will also maintain its existing connections to ExCALIBUR (or whatever comes next), ARCHER2 as well as the upcoming UKRI DRI Knowledge Exchange Network, and use their means for cross-posting on their websites and social media channels. We also hope to be  
 able to get a Society email address for the Steering Group, which community members can use to reach us. 
