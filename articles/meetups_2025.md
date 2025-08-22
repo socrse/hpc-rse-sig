@@ -6,10 +6,13 @@ This online meet-up was the first meet-up of the community after officially goin
 
 We had a range of interesting talks from the HPC RSE community:
 
-- Scaling the Stars: Optimizing MPI communication on GPUs in the PROMPI stellar dynamics code; Miren Radia, Research Computing Services, University of Cambridge
-- Custom Acceleration Frameworks: the good, the bad, and the ugly; Ilektra Chritidi, Mashy Green, UCL
-- FRIDGE: A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O’Reilly, The Alan Turing Institute
-- Connecting the DRI community through CAKE; Nick Brown, EPCC, University of Edinburgh
+### Scaling the Stars: Optimizing MPI communication on GPUs in the PROMPI stellar dynamics code; Miren Radia, Research Computing Services, University of Cambridge
+### Custom Acceleration Frameworks: the good, the bad, and the ugly; Ilektra Chritidi, Mashy Green, UCL
+In this talk, Mashy green talked about their experiences working with custom abstractions on accelerator offloading. As a HPC RSE, it is good to be aware of the pros
+and cons of different software options for offloading, from native languages like CUDA and HIP to third party libraries such as Kokkos and Raja. Developing and maintaing
+your own custom framework within a codebase is a major effort but it can pay off if you really need to fine tune the performance and abstraction balance for a specific codebase.
+### FRIDGE: A shared responsibility model for deploying Trusted Research Environments on High Performance Compute systems; Martin O’Reilly, The Alan Turing Institute
+### Connecting the DRI community through CAKE; Nick Brown, EPCC, University of Edinburgh
 
 These were followed by a group discussion on what the HPC RSE community would like to see from the SIG going forward.
 
