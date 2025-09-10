@@ -2,6 +2,8 @@
 
 ## 2025
 
+[HPC RSE SIG Meet-ups in 2025](articles/meetups_2025.html)
+
 ## 2024
 [HPCRSE@RSECon24: 3rd annual meeting of the HPC RSE community](https://society-rse.org/hpcrsersecon24-3rd-annual-meeting-of-the-hpc-rse-community/)
 [HPC RSE March 2024 Online Meetup](https://www.archer2.ac.uk/news/2024/03/28/hpc-rse-meetup.html)
