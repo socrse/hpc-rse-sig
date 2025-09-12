@@ -76,3 +76,10 @@ knowledge exchange beyond Slack is needed. Also, outcomes of RSE projects and ca
 
 [HPCRSE@RSECon25: 4th annual meeting of the HPC RSE community](https://virtual.oxfordabstracts.com/event/75166/submission/66)
 
+### Evgenij Belikov: [Monitoring hardware performance counters on ARCHER2 using LIKWID](https://drive.google.com/file/d/1ovhbUe8vni2c5R5TMSepVapRBh3ZVUiN/view?usp=drive_link)
+
+### Mosè Giordano: [Accelerating scientific code with Reactant.jl](https://docs.google.com/presentation/d/1bjjBIQXc1OSr0Lvs6cYAlIlvR4sC24PbrXM8LdgEZIE/edit?usp=sharing)
+
+### Jost Migenda: [Python Profiling & Optimisation & Other Activities of the RPC SIG](https://drive.google.com/file/d/1IsXb_Pptls1W7PM1uGeHhC7HPjiGVd4j/view?usp=sharing)
+
+### Sara Villa: [Open communities as an essential part of upskilling and training development](https://docs.google.com/presentation/d/1c55gGoWgxzE2TxbsATilY_RSlW8P8FufPMuIcVlw8Ec/edit?usp=sharing)
