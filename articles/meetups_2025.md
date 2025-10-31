@@ -90,6 +90,38 @@ The panel brought back up both speakers and also had the addition of Alex Lyttle
 
 ### Future of UK HPC Service Panel
 
+This panel had:
+- Chris Edsall (University of Cambridge, CSD3 and DAWN)
+- Matt Williams (University of Bristol, Isamabard AI)
+- Andy Turner (EPCC, ARCHER2, involved with DIRAC)
+- Simon Burbidge (DIRAC)
+Each of the panel members introduced themselves, their institution and the HPC facilities they work with. The first question about the 2026 grant roadmap and the associated computing challenges.
+The panel spoke about changes in the governments funding approach moving towards more national compute with more centres of excellence to provided added diversity to UK compute resources. A need
+for skilled people with knowledge of AI and AI software was also mentioned.
+This discussion led to a further question on what strategies the UK should adopt where example from around the world were discussed. Most notably how the French government provides funding for GPUs.
+Which lead to a greater discussion on GPU provisioning and the energy concerns. How the current strategy works well for the government due to the expertise of everyone getting the most results from
+a given hardware. This allowed further questions and discussion on future hardware procurement and HPC sustainability. Where thoughts on energy usage of current and older systems as well as increasing
+the lifecycle of hardware was discussed. This panel presented an interesting discussion with a lot of questions and the audience wanting a longer session to continue to hear from the panel.
+
 ### Jost Migenda: [Python Profiling & Optimisation & Other Activities of the RPC SIG](https://drive.google.com/file/d/1IsXb_Pptls1W7PM1uGeHhC7HPjiGVd4j/view?usp=sharing)
 
+This presentation is an invitation for further collaboration between the reasonable performance computing (rpc) sig (https://sig-rpc.github.io/) and the hpc rse sig.
+The issue of researchers not considering performance and efficiency was stated and that there is a lot of low-hanging fruit to optimise and profile their code. After outlining
+the situation a demonstration of the carpentries styled course on profiling and optimising python code was shown (https://carpentries-incubator.github.io/pando-python/). Towards
+the end of the presentation was a call for involvement both with the course material and the rpc sig.
+
+
 ### Sara Villa: [Open communities as an essential part of upskilling and training development](https://docs.google.com/presentation/d/1c55gGoWgxzE2TxbsATilY_RSlW8P8FufPMuIcVlw8Ec/edit?usp=sharing)
+
+The speaker outlined both open communities and the open seeds training program. They explained their experience and work done in both the Turing way and OLS. How the Open communities exist to make
+teaching efforts sustainable following the method of "Training the trainers". With both Open leadership training and ally skills workshop. The presenter outlined that this is an opportunity for
+the hpc rse sig community to work and contribute to this.
+
+### Community and Training Panel
+
+The panel brought back both speakers as well as Mashy Green (UCL), Janetta Steyn (Newcastle) and an audience member agreed to join our open invite. The panel provided their views and experiences
+on training senior academics. They outlined the difficulties they have had with them being resistant to change, time constraints in training them. How to get academic institutions to fund training
+was asked and discussed amongst the panel. Sustainability and energy consumption were a common theme throughout the event and was also asked in this session. Particularly as training others to be
+conscious of energy consumed both in AI tools and in running code. Further discussion of embodied emissions, run time estimates for energy use, linking back to the reasonable compute sig and how to train
+users to understand how much compute is necessary to solve a problem. The final question asked about specialised HPC hardware and training users to use it. The panel spoke about the benefits of higher
+efficiecny for certain workloads. Also, how complier level portability helps test more hardware as well as how DiRAC GPU feasibility studies found that applications can drive procurement choices.
