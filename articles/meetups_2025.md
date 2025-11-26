@@ -98,7 +98,7 @@ This panel had:
 Each of the panel members introduced themselves, their institution and the HPC facilities they work with. The first question about the 2026 grant roadmap and the associated computing challenges.
 The panel spoke about changes in the governments funding approach moving towards more national compute with more centres of excellence to provided added diversity to UK compute resources. A need
 for skilled people with knowledge of AI and AI software was also mentioned.
-This discussion led to a further question on what strategies the UK should adopt where example from around the world were discussed. Most notably how the French government provides funding for GPUs.
+This discussion led to a further question on what strategies the UK should adopt where examples from around the world were discussed. Most notably how the French government provides funding for GPUs.
 Which lead to a greater discussion on GPU provisioning and the energy concerns. How the current strategy works well for the government due to the expertise of everyone getting the most results from
 a given hardware. This allowed further questions and discussion on future hardware procurement and HPC sustainability. Where thoughts on energy usage of current and older systems as well as increasing
 the lifecycle of hardware was discussed. This panel presented an interesting discussion with a lot of questions and the audience wanting a longer session to continue to hear from the panel.
