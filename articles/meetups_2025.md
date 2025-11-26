@@ -124,4 +124,4 @@ on training senior academics. They outlined the difficulties they have had with 
 was asked and discussed amongst the panel. Sustainability and energy consumption were a common theme throughout the event and was also asked in this session. Particularly as training others to be
 conscious of energy consumed both in AI tools and in running code. Further discussion of embodied emissions, run time estimates for energy use, linking back to the reasonable compute sig and how to train
 users to understand how much compute is necessary to solve a problem. The final question asked about specialised HPC hardware and training users to use it. The panel spoke about the benefits of higher
-efficiecny for certain workloads. Also, how complier level portability helps test more hardware as well as how DiRAC GPU feasibility studies found that applications can drive procurement choices.
+efficiency for certain workloads. Also, how compiler level portability helps test more hardware as well as how DiRAC GPU feasibility studies found that applications can drive procurement choices.
