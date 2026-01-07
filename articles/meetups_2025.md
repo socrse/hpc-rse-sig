@@ -95,7 +95,7 @@ This panel had:
 - Matt Williams (University of Bristol, Isamabard AI)
 - Andy Turner (EPCC, ARCHER2, involved with DIRAC)
 - Simon Burbidge (DIRAC)
-Each of the panel members introduced themselves, their institution and the HPC facilities they work with. The first question about the 2026 grant roadmap and the associated computing challenges.
+Each of the panel members introduced themselves, their institution and the HPC facilities they work with. The first discussion topic was the 2026 grant roadmap and the associated computing challenges.
 The panel spoke about changes in the governments funding approach moving towards more national compute with more centres of excellence to provided added diversity to UK compute resources. A need
 for skilled people with knowledge of AI and AI software was also mentioned.
 This discussion led to a further question on what strategies the UK should adopt where examples from around the world were discussed. Most notably how the French government provides funding for GPUs.
