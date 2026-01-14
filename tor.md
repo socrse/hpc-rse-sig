@@ -2,10 +2,11 @@
 
 ## Change log
 
-Last updated: 06.11.2024 – for more details see the update log below. 
+Last updated: 21.07.2025 – for more details see the update log below. 
 
 - 06.11.2024 \- First draft created from template (Marion Weinzierl, Andy Turner, Nick Brown) 
 - 28.11.2024 \- SIG and ToR accepted by Society of RSE trustees 
+- 21.07.2025 \- Review and update by Gavin Yearwood
 
 ## Introduction
 
@@ -35,7 +36,7 @@ While the HPC RSE SIG is based in and focused on the UK HPC community, we welcom
 
 This purpose has been decided in collaboration between the SIG steering group and Society and under careful consideration of the RSE community and the external environment at this time. This purpose is not expected to change, and if significant changes are required they should be proposed to a Society trustee meeting for consideration and approval. 
 
-The HPC RSE SIG will organise regular in person and online events. In person events will typically be colocated with other events of interest to potential attendees. For example, in person events have been colocated with the last 3 in person RSECon and there was an in person event associated with the 2024 International Supercomputing Conference (ISC24). 
+The HPC RSE SIG will organise regular in person and online events. In person events will typically be colocated with other events of interest to potential attendees. For example, in person events have been colocated multiple times at RSECon and there was an in person event associated with the 2024 International Supercomputing Conference (ISC24). 
 
 Other confirmed outputs will be blog posts promoting the Society and SIG events and achievements, contributions to relevant community resources and promoting the Society on HPC-aligned social media channels. Depending on how the SIG evolves and expands and requirements of members change, additional outputs will be considered. 
 
@@ -51,10 +52,9 @@ The estimated proportion of this that will be requested through the Society’s 
 
 The remaining part of the budget will be acquired through funds from relevant UKRI grants, such as the DRI Knowledge Exchange Network, and the generous support of EPCC/ARCHER2 as well as potentially other institutions. 
 
-We plan to hold our annual meeting, if possible, as a BoF or satellite event at RSECon, which will hopefully reduce costs. In years where the annual meeting is accepted for the  
-RSECon programme, there are normally no further costs (i.e., the 2k costed above do not apply). 
+We plan to hold our annual meeting, if possible, as a BoF or satellite event at RSECon, which will hopefully reduce costs. In years where the annual meeting is accepted for the RSECon programme, there are normally no further costs (i.e., the 2k costed above do not apply). 
 
-## Insurance Policies 
+## Insurance Policies 
 
 At this point, we do not foresee any insurance needs apart from those associated with an event associated with RSECon. 
 
@@ -77,22 +77,20 @@ For induction, the Steering Group is asked to:
 - Read ‘How to Reduce Risk while Volunteering’ 
 - Read “10 Simple Rules for Leadership without Formal Authority” 
 
-The current Steering Group has been formed from the remaining original volunteers who organised the HPC RSE Meet-ups and BoFs (at RSECon 22,23 and 24), and the ExCALIBUR Knowledge Exchange Coordinator Chair. An open call for committee members was issued after the online meet-up in March 2024\.  
+The current Steering Group has been formed from the remaining original volunteers who organised the HPC RSE Meet-ups and BoFs (at RSECon 22,23 and 24), and the ExCALIBUR Knowledge Exchange Coordinator Chair. An open call for committee members was issued after the online meet-up in March 2024.  
 The community members are always encouraged to contact the committee if they are interested in joining. When needed, calls for further committee members will be made. Anyone can join who is interested in contributing volunteering effort. People can leave any time. There is no maximum size for the committee, and the minimum size is that the committee is made up of the Steering Group. 
 
 For the Steering Group, we aim to add at least one person every 12 months from the committee or wider community. If someone wants to join and this would take the Steering Group of the maximum size of eight members, one of the longer-serving members will (voluntarily) step down. 
 
 The committee and steering group are working together to organise events, create and maintain the website, write blog posts and keep in touch with the RSE Society. The Steering Group will meet once every two months as a minimum, and will draw in the committee as required. When organising events or working on initiatives, more frequent meetings will be organised. 
 
-In future, we plan to connect with the upcoming UKRI DRI Knowledge Exchange Network, for which a call is currently (as of November 2024\) open. 
-
-## Onboarding of Committee members
+## Onboarding of Committee members
 
 The Society asks that the Steering Group ensure that an initial onboarding meeting takes place to cover the following (but not limited to) activities: 
 
 - Introductions and icebreaker 
 - Circulate this document and ask all to read it carefully 
-- Ask each member to take the free (mandatory) online EDI training on https://elearning.acas.org.uk/
+- Ask each member to take the free (mandatory) online EDI training on <https://elearning.acas.org.uk/>
   - Bullying & Harassment
   - Discipline & Grievance
   - Equality & Diversity
@@ -113,7 +111,7 @@ The SIG committee will read and follow the Society’s EDI policy, and ensure th
 
 The Society has an EDI team that are able to liaise and advise the SIG committee as needed, they can be contacted at edia@society-rse.org. 
 
-When organising events, we will aim to select one person from the Steering Group to be responsible for ensuring EDI considerations feed into the full planning process and will be considered throughout the event as well as in the retrospect eveluation. 
+When organising events, we will aim to select one person from the Steering Group to be responsible for ensuring EDI considerations feed into the full planning process and will be considered throughout the event as well as in the retrospect evaluation. 
 
 ## The Environment and Sustainability
 
@@ -131,7 +129,7 @@ The committee will use various modes of collecting feedback. We keep encouraging
 
 ## Publicity and online presence
 
-The HPC RSE SIG will create a webpage which will collect blog posts from its events and signpost to other relevant groups, communities and resources. The HPC channel on the UK RSE Slack will remain it’s main place of communication, and the committee members will advertise events on their own social media accounts. 
+The HPC RSE SIG created a webpage (<https://socrse.github.io/hpc-rse-sig/>) which has a collection of blog posts from its events and signpost to other relevant groups, communities and resources. The HPC channel on the UK RSE Slack will remain it’s main place of communication, and the committee members will advertise events on their own social media accounts. 
 
 The SIG will also maintain its existing connections to ExCALIBUR (or whatever comes next), ARCHER2 as well as the upcoming UKRI DRI Knowledge Exchange Network, and use their means for cross-posting on their websites and social media channels. We also hope to be  
 able to get a Society email address for the Steering Group, which community members can use to reach us. 
