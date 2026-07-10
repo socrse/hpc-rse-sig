@@ -1,5 +1,9 @@
 # Blog Posts
 
+## 2026
+
+[HPC RSE SIG Meet-ups in 2026](articles/meetups_2026.html)
+
 ## 2025
 
 [HPC RSE SIG Meet-ups in 2025](articles/meetups_2025.html)
