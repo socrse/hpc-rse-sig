@@ -17,10 +17,10 @@
 
 ### How to avoid reinventing the wheel again and again in HPC training
 
-- Sometimes slight changes will need to be made training material
+- Agreed that sometimes slight changes will need to be made to the training material
    - Differences in HPC systems
    - Need resources to be easy to edit for different presenters
-- Make everyone aware of all the differnet trainig resources:
+- Make everyone aware of all the different trainig resources:
    - Direct - dRTP skills framework <https://directframework.com/>
    - Evita - are trying to provide a unified training infrastructure across EuroHPC systems <https://www.evitahpc.eu/> and their hpc portal <https://hpc-portal.eu/>
    - SHAREing training <https://shareing-dri.github.io/training/>
@@ -34,7 +34,7 @@
 - EuroHPC and EuroCC efforts are aimed at users across nations for whom the site caters
 - Time from individuals may be one of the biggest limiters for such collaborations
 - RSEs, in some groups, are expected to spend 10% of their time or so for such collaborative efforts
-- Mandating collaboration amongst 2-3 institutions in contributions can be part of a workshop proposal at a conference. 
+- Mandating collaboration amongst 2-3 institutions in contributions can be part of a workshop proposal at a conference
 - A regular meeting of a working group working on such an initiative is the best way to have steady progress
 - Keeping trainings open to wider audiences is always helpful
 - Set up a GitHub repo, encourage PRs from RSEs who want to submit an idea -> can be a good idea to invite participation 
@@ -48,8 +48,8 @@
 - Stricter limits to get onto ernegery intensive hardware
 - Discussion about underclocking or even powering off nodes
    - Potential trade offs with embedded carbon
-- Power density is going up, so to maintint he same capacity then power usage wil go through the roof.
-- Change scheudling algorithms to be tied to power generation, or have differnet projects have differnt weights based on what is being researched.
+- Power density is going up, so to maintint he same capacity then power usage wil go through the roof
+- Change scheudling algorithms to be tied to power generation, or have differnet projects have differnt weights based on what is being researched
 - Lots of good ideas but limnited RIE straff to implement this
 - Energy mix, should hpc sites have mandatory on site renewables, should they be located near green power eg scotland or york have a machine aborad next to hydro
    - Could we make researchers power the hpc on stationary bikes
@@ -66,7 +66,7 @@
 
 ### What makes good docs?
 
-- We're technical people so maybe we're not the best judges for this.
+- We're technical people so maybe we're not the best judges for this
 - What's a good baseline?
    - Can we assume they know how to SSH?
 - Searchable
@@ -78,4 +78,3 @@
 - Web Analytics to determine page usage
 - Software stack information is often accessed regularly
    - How to load the modules
-
