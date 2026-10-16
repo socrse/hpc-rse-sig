@@ -1,6 +1,6 @@
 # HPC RSE SIG annual conference RSECon26
 
-## Lightning talks
+## Lightning talks [presentation](https://docs.google.com/presentation/d/1YAhkJ2zuFuXiRMLV9gB6xpT5S13wY5x8B40JmLiGAUc/edit?usp=sharing) 
 
 ### CSC-IT Center for Science, Finland - Samantha Wittke
 
@@ -12,7 +12,6 @@
 
 ### bwRSE4HPC - Glen Hunter
 
-
 ## Community discussion
 
 ### How to avoid reinventing the wheel again and again in HPC training
@@ -21,10 +20,10 @@
    - Differences in HPC systems
    - Need resources to be easy to edit for different presenters
 - Make everyone aware of all the different trainig resources:
-   - Direct - dRTP skills framework <https://directframework.com/>
-   - Evita - are trying to provide a unified training infrastructure across EuroHPC systems <https://www.evitahpc.eu/> and their hpc portal <https://hpc-portal.eu/>
-   - SHAREing training <https://shareing-dri.github.io/training/>
-- Make successful trainining resources accessible like Carpentries <https://carpentries.org/>
+   - Direct - [dRTP skills framework](https://directframework.com/)
+   - Evita - are trying to provide a unified training infrastructure across [EuroHPC systems](https://www.evitahpc.eu/) and a [hpc portal](https://hpc-portal.eu/)
+   - [SHAREing training](https://shareing-dri.github.io/training/)
+- Make successful trainining resources accessible like [Carpentries](https://carpentries.org/)
 - Funding
    - For those who have the material to travel and deliver the material
    - For a central location for those to travel to
