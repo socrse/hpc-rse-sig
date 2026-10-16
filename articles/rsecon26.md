@@ -1,5 +1,7 @@
 # HPC RSE SIG annual conference RSECon26
 
+HPC RSE SIG welcomed the international HPC RSE community again at RSECon26, in the session [HPCRSE@RSECon26: 5th annual meeting of the HPC RSE community](https://zenodo.org/records/22686150), led by Gavin and Marion. We had a range of lightning talks about HPC Services in the UK and Europe, followed be breakout discussions on a range of topics.
+
 ## Lightning talks [presentation](https://docs.google.com/presentation/d/1YAhkJ2zuFuXiRMLV9gB6xpT5S13wY5x8B40JmLiGAUc/edit?usp=sharing) 
 
 ### CSC-IT Center for Science, Finland - Samantha Wittke
