@@ -2,19 +2,21 @@
 
 HPC RSE SIG welcomed the international HPC RSE community again at RSECon26, in the session [HPCRSE@RSECon26: 5th annual meeting of the HPC RSE community](https://zenodo.org/records/22686150), led by Gavin and Marion. We had a range of lightning talks about HPC Services in the UK and Europe, followed be breakout discussions on a range of topics.
 
-## Lightning talks [presentation](https://docs.google.com/presentation/d/1YAhkJ2zuFuXiRMLV9gB6xpT5S13wY5x8B40JmLiGAUc/edit?usp=sharing) 
+## Lightning talks 
 
-### CSC-IT Center for Science, Finland - Samantha Wittke
+The lightning talks and speakers were:
 
-### Zenith: a new system for HPC and AI - Miren Radia
+ - CSC-IT Center for Science, Finland - Samantha Wittke
+ - Zenith: a new system for HPC and AI - Miren Radia
+ - The Bristol Centre for Supercomputing - Paul Wright, Anna Price and David John
+ - EuroHPC access for UK researchers: Opportunitues beyond local HPC - Ashutosh Shankarro Londhe
+ - bwRSE4HPC - Glen Hunter
 
-### The Bristol Centre for Supercomputing - Paul Wright, Anna Price and David John
-
-### EuroHPC access for UK researchers: Opportunitues beyond local HPC - Ashutosh Shankarro Londhe
-
-### bwRSE4HPC - Glen Hunter
+Lightning talk slides are available [here](https://zenodo.org/records/22686150/files/Lightning%20Talks-1.pdf?download=1)
 
 ## Community discussion
+
+Below are the summary notes of the various breakout discussions.
 
 ### How to avoid reinventing the wheel again and again in HPC training
 
@@ -25,7 +27,7 @@ HPC RSE SIG welcomed the international HPC RSE community again at RSECon26, in t
    - Direct - [dRTP skills framework](https://directframework.com/)
    - Evita - are trying to provide a unified training infrastructure across [EuroHPC systems](https://www.evitahpc.eu/) and a [hpc portal](https://hpc-portal.eu/)
    - [SHAREing training](https://shareing-dri.github.io/training/)
-- Make successful trainining resources accessible like [Carpentries](https://carpentries.org/)
+- Make successful training resources accessible like [Carpentries](https://carpentries.org/)
 - Funding
    - For those who have the material to travel and deliver the material
    - For a central location for those to travel to
