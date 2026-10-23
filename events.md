@@ -2,6 +2,24 @@
 
 ## Upcoming
 
+## HPCRSE@RSECon26: 5th annual meeting of the HPC RSE community
+
+This event is organised by the HPC RSE Special Interest Group (SIG) to bring together the community of RSEs working in High Performance Computing (HPC) and 
+Digital Research Infrastructure (DRI). The community covers a range of RSE roles from development of research software to support of HPC facilities, 
+providing support to researchers. Our objectives are to provide peer support across the RSE HPC community, share experience and best practice, foster an open, 
+self-sustaining community,  collaborate with other, associated communities and organisations and give the community an opportunity to steer the activities of the SIG.
+
+We aim in our sessions to be open and inviting to create a forum for network building and provide peer support to HPC RSEs: particularly those new to the 
+HPC area and those working without support from a large RSE group.
+
+
+## Past
+
+
+## Past, present and future of HPC Services in the UK, and the people who make it work - HPC [RSE] SIG Workshop at the Durham HPC Days
+
+[Workshop Page](https://hpc-days.github.io/Durham-HPC-Days-2026/programme-days-2026/past-present-and-future-HPC-thursday-session-16-30/)
+
 ### 4th Annual Meeting of the HPC RSE Community, In-person meeting at RSECon in Coventry, 11:00 - 15:00 BST, Thu 11 September 2025
 
 This in-person meeting is organised as a [Birds of a Feather (BoF) session](https://virtual.oxfordabstracts.com/event/75166/submission/66) in [RSECon 2025](https://rsecon25.society-rse.org/programme/). It will have short presentations on topics of interest within the HPC RSE space and panel discussions with questions from the audience.
@@ -17,8 +35,6 @@ Rough Agenda:
 - 14:00 Community/training panel
 - 14:30 Interactive survey to steer activities of the SIG
 - 14:45 Wrap-up
-
-## Past
 
 ### HPC RSE SIG Online Meetup: 1100-1300 BST, Mon 19 May 2025
 
