@@ -13,9 +13,7 @@ Digital Research Infrastructure (DRI).
 
 Read more about this event here: [Summary of HPC RSE SIG Meetup at RSECon26](https://socrse.github.io/hpc-rse-sig/articles/rsecon26.html)
 
-## HPC RSE SIG at CIUK 2026
 
-The HPC RSE SIG will be at [CIUK 2026](https://www.sc.stfc.ac.uk/ciuk-2026/) in Manchester!
 
 
 
